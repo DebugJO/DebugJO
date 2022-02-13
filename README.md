@@ -1,5 +1,6 @@
-<div align=center>
-  
-[![DebugJO's github stats](https://github-readme-stats.vercel.app/api?username=DebugJO)](https://github.com/anuraghazra/github-readme-stats)  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO)](https://github.com/anuraghazra/github-readme-stats)
+ 
+### Software Engineer / Developer
 
-</div>  
+* **Programming Language**:&nbsp; Rust, C#, C++, Delphi, Blazor/WPF/XAML
+* **Database**:&nbsp; Oracle, SQL Server, MariaDB, SQLite, MongoDB
