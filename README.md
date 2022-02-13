@@ -8,3 +8,4 @@
 ### CONTACT
 * **Email**:&nbsp; me@msjo.kr
 * **Website**:&nbsp; [https://msjo.kr](https://msjo.kr) || [https://rustlang.kr](https://rustlang.kr)
+* **IT Career**:&nbsp; [https://msjo.kr/about/](https://msjo.kr/about/)
