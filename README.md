@@ -6,5 +6,5 @@
 * **Database**:&nbsp; Oracle , SQL Server , MariaDB , SQLite , MongoDB
 
 ### CONTACT
-* **Email**:&nbsp; me@msjo.kr
+* **Email**:&nbsp; me@msjo.kr &nbsp;||&nbsp; msjo@rustlang.kr
 * **Website**:&nbsp; [https://msjo.kr](https://msjo.kr) &nbsp;||&nbsp; [https://rustlang.kr](https://rustlang.kr)
