@@ -2,8 +2,8 @@
  
 ### Software Engineer / Developer
 
-* **Programming Language**:&nbsp; Rust, C#, C++, Delphi, Blazor/WPF/XAML
-* **Database**:&nbsp; Oracle, SQL Server, MariaDB, SQLite, MongoDB
+* **Programming Language**:&nbsp; Rust , C# , C++ , Delphi , Blazor/WPF/XAML
+* **Database**:&nbsp; Oracle , SQL Server , MariaDB , SQLite , MongoDB
 
 ### CONTACT
 * **Email**:&nbsp; me@msjo.kr
