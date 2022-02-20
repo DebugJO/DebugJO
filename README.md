@@ -6,5 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CONTACT
-* **Email**:&nbsp; me@msjo.kr &nbsp;||&nbsp; msjo@rustlang.kr
-* **Website**:&nbsp; [https://msjo.kr](https://msjo.kr) &nbsp;||&nbsp; [https://rustlang.kr](https://rustlang.kr)
+
+| Email | WebSite |
+|:-:|:-:|
+| me@msjo.kr | https://msjo.kr |
+| msjo@rustlang.kr | https://rustlang.kr |
