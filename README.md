@@ -10,4 +10,3 @@
 | Email | WebSite |
 |:-:|:-:|
 | me@msjo.kr | https://msjo.kr |
-| msjo@rustlang.kr | https://rustlang.kr |
