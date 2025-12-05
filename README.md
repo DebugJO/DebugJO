@@ -1,9 +1,7 @@
 ### Software Engineer / Developer
 
-* **Programming Language**:&nbsp; Rust , C# , C++ , Flutter , Delphi
+* **Programming Language**:&nbsp; Rust , C# , C++ , Database , Delphi
 * **Database**:&nbsp; Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CONTACT
 
