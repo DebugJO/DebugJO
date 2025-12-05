@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO)
 
 ### CONTACT
 
