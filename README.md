@@ -3,9 +3,7 @@
 * **Programming Language**:&nbsp; Rust , C# , C++ , Flutter , Delphi
 * **Database**:&nbsp; Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CONTACT
 
