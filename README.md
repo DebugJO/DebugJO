@@ -4,7 +4,9 @@
 * **Database**:&nbsp; Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-stats.vercel.app/api
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugJO)](https://github.com/anuraghazra/github-readme-stats)
+
 ### CONTACT
 
 | Email | WebSite |
