@@ -11,4 +11,4 @@
 
 **foreach (Person person in people) { person.toHappy(); }**
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=debugjo)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=debugjo&&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)
