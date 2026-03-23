@@ -1,6 +1,6 @@
 ### Software Engineer / Developer
 
-* **Programming Language**:&nbsp; C# , Rust , Zig , C++ , Delphi
+* **Programming Language**:&nbsp; C# , Rust , Zig , C++ , Go
 * **Database**:&nbsp; Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
 
 ### CONTACT
