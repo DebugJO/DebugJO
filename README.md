@@ -17,3 +17,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rust&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=java,rust&theme=light)](https://skillicons.dev)
