@@ -15,5 +15,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,rust,zig,cpp,clion,dotnet,dart,go,postgres,qt)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=rust-light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
