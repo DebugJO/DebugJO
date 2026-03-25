@@ -7,6 +7,7 @@
 
 | Email | WebSite |
 |:-:|:-:|
+| msjo@rustlang.kr | https://rustlang.kr |
 | me@msjo.kr | https://msjo.kr |
 
 **foreach (Person person in people) { person.toHappy(); }**
