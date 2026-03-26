@@ -13,6 +13,5 @@ $X[k] = E[k] + W_N^k O[k]$ , $y = f(\sum_{i=1}^{n} w_i x_i + b)$
 
 [![My Skills](https://skillicons.dev/icons?i=cs,rust,zig,cpp,clion,dotnet,dart,go,postgres,qt)](https://skillicons.dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debugjo&https://github.com/DebugJO)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debugjo&repo=https://github.com/DebugJO)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/DebugJO
