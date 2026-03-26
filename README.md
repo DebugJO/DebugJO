@@ -9,6 +9,6 @@ foreach (Person person in people) { person.toHappy(); }
 
 $X[k] = E[k] + W_N^k O[k]$ , $y = f(\sum_{i=1}^{n} w_i x_i + b)$
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugjo&layout=normal&langs_count=10&hide=qmake,javascript,scss,css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugjo&layout=pie&langs_count=10&hide=qmake,javascript,scss,css,html)
 
 [![My Skills](https://skillicons.dev/icons?i=cs,rust,zig,cpp,clion,dotnet,dart,go,postgres,qt)](https://skillicons.dev)
