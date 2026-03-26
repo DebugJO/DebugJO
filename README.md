@@ -6,8 +6,9 @@
 ```
 foreach (Person person in people) { person.toHappy(); }
 ```
-
+<div style="text-align: left;">
 $$X[k] = E[k] + W_N^k O[k]$$ $$y = f(\sum_{i=1}^{n} w_i x_i + b)$$
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugjo&layout=compact&langs_count=10&hide=qmake,javascript,scss,css,html)
 
