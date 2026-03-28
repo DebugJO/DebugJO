@@ -9,7 +9,9 @@ foreach (Person person in people) { person.toHappy(); }
 
 $X_k = \sum_{n=0}^{N-1} x_n \cdot e^{-i \frac{2\pi}{N} kn}$ , $X[k] = E[k] + W_N^k O[k]$ , $y = f(\sum_{i=1}^{n} w_i x_i + b)$
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugjo&layout=compact&langs_count=8&hide=qmake,javascript,scss,css,html)](https://github.com/debugjo/)
+-->
 
 [![My Skills](https://skillicons.dev/icons?i=cs,rust,zig,cpp,clion,dotnet,dart,go,postgres,qt)](https://github.com/debugjo/)
 
