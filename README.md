@@ -7,7 +7,7 @@
 foreach (Person person in people) { person.toHappy(); }
 ```
 
-[![Website](https://img.shields.io)](https://devsight.kr) , [![Email](https://img.shields.io)](mailto:msjo@devsight.kr)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=google-chrome), [![Email](https://img.shields.io)](mailto:msjo@devsight.kr)
 
 $X_k = \sum_{n=0}^{N-1} x_n \cdot e^{-i \frac{2\pi}{N} kn}$ , $X[k] = E[k] + W_N^k O[k]$ , $y = f(\sum_{i=1}^{n} w_i x_i + b)$
 
