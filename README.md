@@ -1,7 +1,8 @@
 ### Software Engineer / Developer
 
-* **Programming Language**:&nbsp; C# , Rust , Zig , C++ , Go
-* **Database**:&nbsp; Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
+* **Language** : C# , Rust , Zig , C++ , Go
+* **Database** : Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
+* **Desktop**  : Avalonia, WPF, Qt, Electrobun, Blazor(MAUI Blazor Hybrid)
 
 ```
 foreach (Person person in people) { person.toHappy(); }
