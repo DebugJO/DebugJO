@@ -2,7 +2,7 @@
 
 * **Language** : C# , Rust , Zig , C++ , Go
 * **Database** : Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
-* **Desktop**  : Avalonia, WPF, Qt, Electrobun, Blazor(MAUI Blazor Hybrid)
+* **Desktop**  : Avalonia, WPF, Qt, Electrobun, Blazor
 
 ```
 foreach (Person person in people) { person.toHappy(); }
