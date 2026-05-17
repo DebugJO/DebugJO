@@ -4,7 +4,7 @@
 * **Database** : Oracle , SQL Server , MariaDB , PostgreSQL , Firebird
 * **Desktop**  : Avalonia, WPF, Qt, Tauri, Blazor
 
-```
+```cs
 foreach (Person person in people) { person.toHappy(); }
 ```
 
