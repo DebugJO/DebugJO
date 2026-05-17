@@ -11,3 +11,5 @@ foreach (Person person in people) { person.toHappy(); }
 [![Static Badge](https://img.shields.io/badge/Website-devsight.kr-blue)](https://devsight.kr) [![Email](https://img.shields.io/badge/Email-msjo@devsight.kr-1199A6)](mailto:msjo@devsight.kr)
 
 <https://debugjo.github.io>
+
+[![committers.top badge](https://user-badge.committers.top/south_korea/DebugJO.svg)](https://user-badge.committers.top/south_korea/DebugJO)
