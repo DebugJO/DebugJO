@@ -7,7 +7,7 @@
 ```cs
 foreach (Person person in people)
 {
-  person.toHappy();
+    person.toHappy();
 }
 ```
 
