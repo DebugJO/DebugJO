@@ -10,4 +10,4 @@ foreach (Person person in people) { person.toHappy(); }
 
 [![Static Badge](https://img.shields.io/badge/Website-devsight.kr-blue)](https://devsight.kr) [![Email](https://img.shields.io/badge/Email-msjo@devsight.kr-1199A6)](mailto:msjo@devsight.kr)
 
-[![committers.top badge](https://avatars.githubusercontent.com/u/18445776?u=42c4df0d46378b1aa142bd4d5f5a093cc8941bac&v=4&s=40)](https://user-badge.committers.top/south_korea/DebugJO)
+[![committers.top badge](https://user-badge.committers.top/south_korea/DebugJO.svg)](https://user-badge.committers.top/south_korea/DebugJO)
